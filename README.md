@@ -1,5 +1,4 @@
-# Expense-Manager
-A Expense Manager for youth. A project for HackHaven (Hackathon).
+# HackHaven-ExpenseManager
 README.md
 
 # Hackathon Project Submission
@@ -77,3 +76,6 @@ MEMBERS:-<br>
 • EMAIL ID:- bhatnagardhruv.gzb@gmail.com<br>
 • GITHUB ID:- DhruvBhatnagar2004<br>
 • LINKED IN:-https://www.linkedin.com/in/dhruv-bhatnagar-a135b9262/<br>
+
+
+
